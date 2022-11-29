@@ -1,0 +1,4 @@
+﻿  test_8_1_rec.cpp
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_rec\lab_8_1_rec.cpp(23,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\test_8_1_rec\test_8_1_rec.cpp(16,1): error C2660: Count: функция не принимает 1 аргументов
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_rec\lab_8_1_rec.cpp(4,5): message : см. объявление "Count"

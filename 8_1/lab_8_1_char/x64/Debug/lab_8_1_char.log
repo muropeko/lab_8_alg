@@ -1,0 +1,6 @@
+﻿  lab_8_1_char.cpp
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(18,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(26,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(46,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(58,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  lab_8_1_char.vcxproj -> C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\x64\Debug\lab_8_1_char.exe

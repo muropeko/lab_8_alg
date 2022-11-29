@@ -1,0 +1,11 @@
+﻿  test_8_1_char.cpp
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(18,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(26,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(46,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(58,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(47,5): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(48,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(59,5): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(60,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(65,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Home\Desktop\projects\algoritm_8\8_1\lab_8_1_char\lab_8_1_char.cpp(66,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
